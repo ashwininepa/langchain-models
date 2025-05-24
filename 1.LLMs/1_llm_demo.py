@@ -1,3 +1,11 @@
+"""
+# LLM Demo using LangChain and OpenAI
+
+This script demonstrates how to use the LangChain library with OpenAI's GPT-3.5-turbo-instruct model.
+LLMs (Large Language Models) are powerful tools for natural language processing tasks.
+LLMs take a string or plain text as an input and return a string or plain test as an output.
+"""
+
 ## Import necessary libraries
 from langchain_openai import OpenAI
 from dotenv import load_dotenv
